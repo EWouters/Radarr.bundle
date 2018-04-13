@@ -1,3 +1,5 @@
+## This project is not working at the moment! Feel free to fix. I just forked this to check what it would take to convert this to work for Radarr.
+
 # Radarr.bundle
 
 A plugin for [Plex Media Server](https://plex.tv/) that is a client for [Radarr](https://radarr.video/) (forked from [Sonarr.bundle](https://github.com/jamorin/Sonarr.bundle)).
